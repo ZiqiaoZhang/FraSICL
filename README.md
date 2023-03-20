@@ -12,10 +12,10 @@ Codes for featurizing given molecules to input data for pretraining/finetuning a
 
 
 ## ContrastiveModel.py
-Codes for construct a FraSICl model.
+Codes for constructing a FraSICl model.
 
 ## ContrastiveEvaluator.py
-An evaluator for estiimating the performance of a FraSICL model.
+An evaluator for estimating the performance of a FraSICL model.
 
 ## ContrastiveProcessController.py
 A process controller which can handle the entire training/finetuning process for experiments.
