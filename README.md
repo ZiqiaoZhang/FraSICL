@@ -11,6 +11,7 @@ Runnable scripts, pre-training dataset and pre-trained model checkpoints will be
 Our pre-training dataset and the weight checkpoint of pre-trained FraSICL model can be downloaded [here](https://drive.google.com/drive/folders/1NXHWMYWftYvwspHydPHzW6cTlzrc12Z0?usp=sharing).
 
 pubchem-10m-clean.txt is the pre-train dataset of MolCLR, which contains ~10M molecules gathered from PubChem database.
+
 200K samples are randomly selected from this dataset for curating our pre-train dataset, named pubchem-200K-screened.txt.
 
 model-58-fin is the checkpoint of model weights for reproducing our baseline experimental results.
