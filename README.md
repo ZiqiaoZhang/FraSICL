@@ -7,7 +7,7 @@ paper: Molecular Property Prediction by Semantic-invariant Contrastive Learning
 
 //Runnable scripts, pre-training dataset and pre-trained model checkpoints will be uploaded soon.
 
-Training scripts and training frameworks have been updated!!!
+Training scripts and training framework have been updated!!!
 
 
 ## Download pre-training dataset and model weights checkpoint
