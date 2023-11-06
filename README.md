@@ -3,9 +3,12 @@ The source codes of FraSICL model.
 
 paper: Molecular Property Prediction by Semantic-invariant Contrastive Learning
 
-The current version of codes is just a proof-of-concept of FraSICL model. It is not runnable due to the lack of some requirements, e.g. an in-house training framework package and pre-training datasets.
+//The current version of codes is just a proof-of-concept of FraSICL model. It is not runnable due to the lack of some requirements, e.g. an in-house training framework package and pre-training datasets.
 
-Runnable scripts, pre-training dataset and pre-trained model checkpoints will be uploaded soon.
+//Runnable scripts, pre-training dataset and pre-trained model checkpoints will be uploaded soon.
+
+Training scripts and training framework have been updated!!!
+
 
 ## Download pre-training dataset and model weights checkpoint
 Our pre-training dataset and the weight checkpoint of pre-trained FraSICL model can be downloaded [here](https://drive.google.com/drive/folders/1NXHWMYWftYvwspHydPHzW6cTlzrc12Z0?usp=sharing).
